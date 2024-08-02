@@ -1,8 +1,24 @@
-# React + Vite
+# Color Picker App
+>## [Welcome to my Color Picker App!]
+>The link to Color Picker App: https://color-picker-app-phi.vercel.app/
+## **Skills** : 
+* HTML
+* CSS
+* JavaScript
+* ReactJs
+* NodeJs
+* Git / GitHub
+* Deployed through Vercel
+___
+## **Preview** :
+![Website](./website.jpg)
+___
+## **Download Links** : 
+You can access my project from your local machine !
+>https : https://github.com/adarsh-2201/color-picker-app.git
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+    git clone https://github.com/adarsh-2201/color-picker-app.git
+```
+___
+# Thank You for your time !
